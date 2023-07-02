@@ -3,7 +3,8 @@ JC Quotes is a Chrome extension that will show inspirational quotes of famous au
 The extension is using JSON API [James Clear Quotes](https://www.jcquotes.com/) to fetch random *James Clear* quotes.
 
 ## Extension Demo
-https://github.com/bhupindersingh007/jc-quotes/assets/63149405/9c9ed56e-7927-415a-aa52-03c5b8c07032
+
+https://github.com/bhupindersingh007/jc-quotes/assets/63149405/d29b3bc1-1dce-4679-9096-102463380331
 
 
 ## Install Instructions 
