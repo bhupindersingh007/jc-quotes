@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "JC Quotes",
+  "description": "James Clear Quotes Extension",
+  "version": "1.0",
+  "author" : "https://github.com/bhupindersingh007",
+  "action": {
+    "default_icon": "quote.png" 
+  },
+  "chrome_url_overrides" : {
+    "newtab" : "index.html"
+  }
+
+}
